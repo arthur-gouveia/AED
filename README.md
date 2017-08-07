@@ -9,6 +9,7 @@ Aqui neste repositório deixarei disponível todo o material que utilizaremos em
 ### Atualizações:
 
 * 04/08/2017 - Criação do repositório com a apresentação de slides
+* 07/08/2017 - Inclusão dos notebooks de Exemplos e de Análise Gráficas com os datasets
 
 ### Professor Arthur Gouveia
 
