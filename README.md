@@ -1,6 +1,6 @@
 # Pós Graduação em Ciência de Dados e Big Data
 
-## AED - Análise Estatística de Dados
+## EGTA - Estatística Geral Teoria e Aplicações
 
 Caros alunos sejam bem vindos à disciplina AED. Será um prazer falar para vocês sobre Estatística!
 
@@ -10,6 +10,7 @@ Aqui neste repositório deixarei disponível todo o material que utilizaremos em
 
 * 04/08/2017 - Criação do repositório com a apresentação de slides
 * 07/08/2017 - Inclusão dos notebooks de Exemplos e de Análise Gráficas com os datasets
+* 09/12/2017 - Atualização dos arquivos para a disciplina EGTA em vez de AED
 
 ### Professor Arthur Gouveia
 
